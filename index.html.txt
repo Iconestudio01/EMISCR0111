@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Despacho Jurídico González</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    header {
+      background-color: #0f1e38;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: #1d2d50;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px;
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      margin-top: 20px;
+      border-radius: 8px;
+    }
+    footer {
+      background-color: #0f1e38;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Despacho Jurídico González</h1>
+    <p>Confianza, Ética y Experiencia Legal</p>
+  </header>
+
+  <nav>
+    <a href="#inicio">Inicio</a>
+    <a href="#servicios">Servicios</a>
+    <a href="#nosotros">Nosotros</a>
+    <a href="#contacto">Contacto</a>
+  </nav>
+
+  <section id="inicio">
+    <h2>Bienvenido</h2>
+    <p>Somos un despacho de abogados con más de 10 años de experiencia en derecho familiar, civil y penal. Nuestro compromiso es ofrecer soluciones legales con integridad y profesionalismo.</p>
+  </section>
+
+  <section id="servicios">
+    <h2>Servicios</h2>
+    <ul>
+      <li>Asesoría legal personalizada</li>
+      <li>Derecho familiar: divorcios, custodias, pensiones</li>
+      <li>Derecho civil: contratos, demandas, propiedades</li>
+      <li>Derecho penal: defensa y representación</li>
+    </ul>
+  </section>
+
+  <section id="nosotros">
+    <h2>Nosotros</h2>
+    <p>Nuestro equipo está formado por abogados certificados con amplia experiencia en distintas ramas del derecho. Trabajamos con ética, empatía y eficiencia.</p>
+  </section>
+
+  <section id="contacto">
+    <h2>Contacto</h2>
+    <p>Email: contacto@despachogonzalez.com</p>
+    <p>Teléfono: (662) 123-4567</p>
+    <p>Ubicación: Hermosillo, Sonora, México</p>
+  </section>
+
+  <footer>
+    &copy; 2025 Despacho Jurídico González. Todos los derechos reservados.
+  </footer>
+
+</body>
+</html>
